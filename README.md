@@ -21,7 +21,7 @@ I always have something pink on my person. You'll never see me without it
 - Ending World Hunger
 - Writing
 
-##### Furture Goals
+##### Future Goals
 1. Complete Interactive Media Design Program
 2. Buy a Car
 3. Complete Marketing Management Post-Grad Program
@@ -29,28 +29,28 @@ I always have something pink on my person. You'll never see me without it
 5. Land a Super Awesome Gig in Digital Marketing
 6. Win the Lottery
 
-### TBD 
+### Catrina 
 #### Nickname
-TBD
+Trina
  
 #### Info
 ##### Born In
-TBD
+London On, Canada
 ##### Fun Fact
-TBD
+I don't exist
 ##### Hobbies
-TBD
+No Hobbies, I Live A Sad Existence
 
-##### Furture Goals
-1. TBD
-2. TBD
-3. TBD
-4. TBD
-5. TBD
-6. TBD
+##### Future Goals
+1. Serve as A Collaborator
+2. Make Branches
+3. Write Up ReadMe
+4. Reflect on Existence
+5. Publish Branch and Merge
+6. Disapear 
 
 ### Credits
 Katrina MacAdams
-TBD
+Catrina McAdams
  ### License 
  MIT
